@@ -1,4 +1,4 @@
-module github.com/micro/go-micro
+module github.com/tomorrowsky/go-micro
 
 go 1.13
 
